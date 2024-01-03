@@ -1,2 +1,3 @@
 # gitPracticeDemo
-Author - Devanshu
+
+Author - Devanshu Parel
